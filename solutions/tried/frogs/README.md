@@ -1,5 +1,5 @@
 # Problem
-![Frog position after T seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)
+[Frog position after T seconds](https://leetcode.com/problems/frog-position-after-t-seconds/)
 
 Given an undirected tree consisting of n vertices numbered from 1 to n.
 A frog starts jumping from vertex 1. In one second, the frog jumps from its current
